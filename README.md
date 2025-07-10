@@ -4,15 +4,28 @@ _Not a good Java developer, neither I am high-level language developer!_
 
 Report all mod bugs either in corresponding ReIndev discord threads/channels or in repositories' `Issue` tabs.
 
-### ReIndev exclusives:
-- 🔐 [`authon`](https://github.com/tracystacktrace/authon) - additional authorization system mod
-- 🔳 [`BootifulBlockOutline`](https://github.com/tracystacktrace/BootifulBlockOutline) - advanced block/entity outline mod
-- 📑 [`BootifulCuneiformInterface`](https://github.com/tracystacktrace/BootifulCuneiformInterface) - upgraded interfaces for Sign/Cuneiform/NameTag editors
-- 🗺️ [`Fluxstone`](https://github.com/tracystacktrace/Fluxstone) - world manager with backup features
-- :eye: [`ICY`](https://github.com/tracystacktrace/ICY) - basically "WAILA", but for ReIndev
-- 🖌️ [`StackEm`](https://github.com/tracystacktrace/StackEm) - multiple texturepacks support + custom features
+Also, the images below are clickable (links to mods' repositories and modrinth pages).
 
-### Libraries, stuff, etc:
+## My Modifications (Mods)
+### "Bootiful" Pack
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/tracystacktrace/BootifulBlockOutline"><img src="https://github.com/tracystacktrace/BootifulBlockOutline/raw/main/src/main/resources/assets/bootifulblockoutline/icon.png" width="64"></a>
+  <a href="https://github.com/tracystacktrace/BootifulCuneiformInterface"><img src="https://github.com/tracystacktrace/BootifulCuneiformInterface/raw/main/src/main/resources/assets/bootifulcuneiforminterface/icon.png" width="64"></a>
+</div>
+
+### "Briefcase" Pack
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/tracystacktrace/Fluxstone"><img src="https://github.com/tracystacktrace/Fluxstone/raw/main/src/main/resources/assets/fluxstone/icon.png" width="64"></a>
+  <a href="https://github.com/tracystacktrace/ICY"><img src="https://github.com/tracystacktrace/ICY/raw/main/src/main/resources/assets/icy/icon.png" width="64"></a>
+</div>
+
+### Others
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/tracystacktrace/authon"><img src="https://github.com/tracystacktrace/authon/raw/main/src/main/resources/assets/authon/icon.png" width="64"></a>
+  <a href="https://modrinth.com/mod/stack-em"><img src="https://github.com/tracystacktrace/StackEm/raw/main/src/main/resources/assets/stackem/icon.png" width="64"></a>
+</div>
+
+## Libraries, and other things:
 - [`HelloGUI`](https://github.com/tracystacktrace/HelloGUI) - quick GUI builder for some of my mods
 - [`rind-broken-moon`](https://github.com/tracystacktrace/rind-broken-moon) - a texturepack that adds TBS moon phases to ReIndev
 
