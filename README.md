@@ -2,9 +2,11 @@ Hello there! I'm `Tracy` (or `wate`) and I create some game modifications here!
 
 _Not a good Java developer, neither I am high-level language developer!_
 
-Report all mod bugs either in corresponding ReIndev discord threads/channels or in repositories' `Issue` tabs.
+For non-minecraft related things and other small projects, please refer to my [codeberg page](https://codeberg.org/tracystacktrace/).
 
-Also, the images below are clickable (links to mods' repositories and modrinth pages).
+Report all mod bugs either in corresponding ReIndev discord **threads/channels** or in repositories' **`Issue` tabs**.
+
+Also, images below are **clickable** (links to mods' repositories and modrinth pages).
 
 ## My Modifications (Mods)
 ### "Bootiful" Pack
