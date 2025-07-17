@@ -21,7 +21,7 @@ Also, images below are **clickable** (links to mods' repositories and modrinth p
 
 ## My Other Mods
 <div style="display: flex; gap: 10px;">
-  <a href="https://github.com/tracystacktrace/SpawnerDropsLoot"><img src="https://github.com/tracystacktrace/SpawnerDropsLoot/raw/master/docs/icon.png" width="64"></a>
+  <a href="https://modrinth.com/mod/spawnerdropsloot"><img src="https://github.com/tracystacktrace/SpawnerDropsLoot/raw/master/docs/icon.png" width="64"></a>
 </div>
 
 
