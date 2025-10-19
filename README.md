@@ -11,7 +11,7 @@ Also, images below are **clickable** (links to mods' repositories and modrinth p
 ## My ReIndev Mods
 <div style="display: flex; gap: 10px;">
   <a href="https://modrinth.com/mod/bootifulblockoutline"><img src="https://github.com/tracystacktrace/BootifulBlockOutline/raw/main/src/main/resources/assets/bootifulblockoutline/icon.png" width="64"></a>
-  <a href="https://github.com/tracystacktrace/BootifulCuneiformInterface"><img src="https://github.com/tracystacktrace/BootifulCuneiformInterface/raw/main/src/main/resources/assets/bootifulcuneiforminterface/icon.png" width="64"></a>
+  <a href="https://modrinth.com/mod/bootifulcuneiforminterface"><img src="https://github.com/tracystacktrace/BootifulCuneiformInterface/raw/main/src/main/resources/assets/bootifulcuneiforminterface/icon.png" width="64"></a>
   <a href="https://github.com/tracystacktrace/Fluxstone"><img src="https://github.com/tracystacktrace/Fluxstone/raw/main/src/main/resources/assets/fluxstone/icon.png" width="64"></a>
   <a href="https://modrinth.com/mod/icy-rind"><img src="https://github.com/tracystacktrace/ICY/raw/main/src/main/resources/assets/icy/icon.png" width="64"></a>
   <a href="https://github.com/tracystacktrace/authon"><img src="https://github.com/tracystacktrace/authon/raw/main/src/main/resources/assets/authon/icon.png" width="64"></a>
