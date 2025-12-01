@@ -1,4 +1,4 @@
-Hello there! I'm `Tracy` (or `wate`) and I create some game modifications here!
+Hello there! I'm `Tracy` (or `wate`) and I like doing some minecraft modding or so!
 
 _Not a good Java developer, neither I am high-level language developer!_
 
@@ -22,6 +22,7 @@ Also, images below are **clickable** (links to mods' repositories and modrinth p
 ## My Other Mods
 <div style="display: flex; gap: 10px;">
   <a href="https://modrinth.com/mod/spawnerdropsloot"><img src="https://github.com/tracystacktrace/SpawnerDropsLoot/raw/master/docs/icon.png" width="64"></a>
+  <a href="https://modrinth.com/mod/vfpchatfilterpatch"><img src="https://github.com/tracystacktrace/vfpchatfilterpatch/raw/main/src/main/resources/assets/vfpchatfilterpatch/icon.png" width="64"></a>
 </div>
 
 
